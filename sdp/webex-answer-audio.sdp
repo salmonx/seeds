@@ -1,0 +1,21 @@
+v=0
+o=- 6608001165902521336 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+a=fingerprint:sha-256 77:89:BB:B0:BC:DB:9F:65:E3:0F:E3:AD:75:D7:06:64:06:7F:56:28:C3:ED:C2:A7:A9:5A:B2:E7:2B:96:F7:A2
+m=audio 9000 RTP/SAVPF 111
+c=IN IP4 66.114.175.71
+a=candidate:1 1 udp 2130706431 66.114.175.71 9000 typ host
+a=candidate:2 1 tcp 2120220671 66.114.175.71 80 typ host tcptype passive
+a=sendonly
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=fmtp:111 maxplaybackrate=16000;stereo=0;useinbandfec=1
+a=ice-pwd:693r9+EZwOmnViFjbK7YL34p
+a=ice-ufrag:820090408#65917426731068794#2
+a=maxptime:20
+a=ptime:20
+a=rtcp-mux
+a=rtpmap:111 opus/48000/2
+a=setup:passive
+a=ssrc:820090408 cname:/pTzPEmQ7zEousgf

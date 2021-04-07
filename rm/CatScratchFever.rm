@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>The Page You Requested is No Longer Here | The Official Community of TedNugent</title>
+    <meta http-equiv="Content-Language" content="en-US" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta name="robots" content="none" />
+    
+    <link href="/_styles/tn_site.css" type="text/css" rel="stylesheet" /><link href="/_styles/forms.css" type="text/css" rel="stylesheet" /><link href="/_styles/jFlickr.css" type="text/css" rel="stylesheet" /><link href="/_styles/thickbox.css" type="text/css" rel="stylesheet" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<!--[if IE 6 ]>
+ 		<link href="/_styles/tn_ie6.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/_scripts/unitpngfix.js"></script>
+<![endif]-->
+	<!--[if IE 7 ]>
+ 		<link href="/_styles/tn_ie7.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+	<script type="text/javascript" src="/_scripts/jquery.js"></script>
+	<script type="text/javascript" src="/_scripts/quotes.js"></script>
+	<script type="text/javascript" src="/_scripts/common.js"></script>
+
+</head>
+<body>
+
+<div id="container">
+		<div id="topAd">
+			<span>
+                  <ul id="topAdverts">
+                       	 <li>
+
+                           <a class="prodCoImage" href="http://www.tednugent.com/store/category.aspx?id=Subscriptions" target="_blank"><img src="/images/ads/banner_subscription.gif" alt="Be part of the Spirit of the Wild lifestyle and community" /></a>
+                          
+                           </li>
+                     </ul>     
+            	</span>
+						
+<a href="/info/tn_bus_inq.aspx">Interested in Advertising on TedNugent.com?</a>
+		</div>
+
+		<div id="logo">
+			<h1><a href="/"></a></h1>
+		</div>
+		
+        <div id="signIn">
+           
+                      <!--  <span id="barBit"></span>
+						<div id="signInBar">
+						<a href="/tools/cs/user/editprofile.aspx"><span id="ctl00_LoginView1_LoginName1">Producers</span></a> | <a href="/account" title="Edit Your Account">My Account</a> | <a id="ctl00_LoginView1_LoginStatus1" href="javascript:__doPostBack('ctl00$LoginView1$LoginStatus1$ctl00','')">Sign Out</a> | <a href="/help/default.aspx?faq=on" title="Help">Help</a> | <a href="/tools/cs/user/PrivateMessages/default.aspx" title="Your Inbox">Inbox (0<span id="ctl00_LoginView1_PrivateMessages"></span>)</a>
+
+						</div> -->
+                    				 
+        </div>
+      
+	 
+	  
+		
+			
+ <!-- everything between the asp:Content tags is the content for your page-->
+ 
+ 	<div id="topNav" class="">
+ 		
+
+<ul id="nav">
+    	<li><a href="/about/" id="navAbout">About</a>
+        	<ul id="subAboutSection">
+            	<li><a href="/about/" id="subBio">Biography</a></li>
+
+                <li><a href="/music/discography/cd/default.aspx?albumId=786a03c2-c8bf-4c56-9f26-20d144b7db15&amp;album=1" id="subDisc">Discography</a></li>
+                <li><a href="/about/band/" id="subBand">The Band</a></li>
+                <li><a href="/about/gear/" id="subGear">Gear</a></li>
+                <li><a href="/about/involvement/" id="subInvolvement">Involvement</a></li>
+            </ul>
+        </li>
+        	
+        <li><a href="/news/" id="navNews">News</a>
+
+        	<ul id="subNewsSection">
+        		<li><a href="/news/" id="subNews">Nuge News</a></li>
+           		<li><a href="/news/projects/" id="subProjects">Huge Nuge Projects</a></li>
+            </ul>
+        </li>
+        <li><a href="/events/" id="navEvents">Events</a>
+        	<ul id="subEventsSection">
+
+            	<li><a href="/events/" id="subCalendar">Calendar</a></li>
+                <li><a href="/sunrize/" id="subSafaris">Sunrise Safari Hunts</a></li>
+            </ul>
+        </li>
+        <li><a href="/forums/" id="navCommunity">Community</a>
+        	<ul id="subCommunitySection">
+            	<li><a href="/forums/" id="subTalk">TalkBack Forums</a></li>
+
+                <li><a href="http://searchwithtednugent.swagbucks.com/?cmd=home" target="_blank" id="subSearch">Search &amp; Win</a></li>
+                
+                <li><a href="/contests/" id="subContests">Contests</a></li>
+                <li><a href="/mailinglist/" id="subLetters">NUGE Letters</a></li>
+                <li><a href="/links/" id="subLinks">Links</a></li>
+            </ul>  
+        </li>
+
+        <li><a href="/tedtv/" id="navMedia">Media</a>
+        	<ul id="subMediaSection">
+            	<li><a href="/tedtv/" id="subTV">Ted TV</a></li>
+                <li><a href="/writings/" id="subWritings">SpiritWild Writings</a></li>
+                <li><a href="/spiritWild/" id="subSpiritTV">Spirit of the Wild</a></li>
+                <li><a href="/gallery/" id="subGallery">Photo Gallery</a></li>
+
+                <!--<li><a href="/extras/" id="subExtras">Extras</a></li>-->
+            </ul>
+        </li>
+        <li><a href="/store/" id="navStore">Store</a>
+        	
+         </li>
+        <li class="clear"></li>
+    </ul>
+    
+     <div id="signUpSection">
+     	<a href="/mailingList/" id="newsletter">SIGN UP FOR <span>NUGE LETTERS</span></a>
+        <!--<a id="showSections">+ show all sections</a>
+
+         <a id="hideSections">- close all sections</a>-->
+        <div id="search">
+        	
+               <input name="ctl00$ContentBody$topNav1$SearchQuery" type="text" maxlength="50" id="ctl00_ContentBody_topNav1_SearchQuery" class="searchField" size="1" onclick="this.value=''" value="search site" />
+               <input type="submit" name="ctl00$ContentBody$topNav1$SearchButton" value="" id="ctl00_ContentBody_topNav1_SearchButton" class="searchButton" />
+        </div>
+     </div>
+    	</div>
+ 	<div id="allSections">
+		<div id="allSectionsHolder">
+    		<div class="clear"></div>
+        </div>
+
+    </div>
+
+  <div id="contentTop"></div>
+		 <div id="content">
+ 			<div id="contentBody">
+				<h1>YOWZA! A 404 ERROR?!</h1>
+
+		 <div id="errorContainer">
+<br />
+
+<img src="/images/Template/404ted.jpg" align="right" style="border: 1px solid #8F8F8F;
+ margin-left: 30px; " />
+<p>Sorry, but the page you are looking for no longer exists, it had a bad case of "Cat Scratch Fever"!</p>
+<br />
+<p>Steady your hand and aim for one of these targets to get you back on track:</p>
+
+<div class="homeTalk">
+<a href="/default.aspx"><p>Homepage</p></a>
+<a href="/help/default.aspx"><p>Help</p></a>
+</div>
+<p style="clear: left;">If you are still unable to find the resources you need, please <a href="mailto:help@TedNugent.com">contact us</a>. We will make every effort to help you!</p>
+
+    </div>
+   
+   </div>
+    
+            <div class="clear"></div>
+
+		</div><!--close content-->
+
+		 
+		 <div id="contentBot"></div>
+	
+		 <div id="footer">
+		 		<div id="footerContent">
+					<div id="footerOne">
+					<div id="launchPlayer">
+						<a href="#" title="Launch Player"></a>
+						
+					</div>
+
+					<div id="socials">
+							<a href="http://www.youtube.com/TedNugent" target="_blank" id="youtubeBut"></a>
+							<a href="http://www.myspace.com/TedNugent" id="myspaceBut" target="_blank"></a>
+							<a href="http://ilike.com/artist/TedNugent" id="ilikeBut" target="_blank"></a>
+					</div>
+					</div>
+					<div id="quotes">
+						<h6>Quotes</h6>
+
+						<p id="quotesOut"></p>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div id="footerBot"></div>
+			
+				<div id="footerLinks">
+					<a href="/">home</a> |
+					<a href="/info/tn_contact.aspx">contact</a> |
+					<a href="/info/tn_bus_inq.aspx">business inquiries</a> |
+					<a href="/info/tn_tou.aspx">terms of use</a> |
+					<a href="/info/tn_privacy.aspx">privacy</a>
+
+ 				</div>
+				<div id="copyright"> &copy; TedNugent.com 1998-2011</div>
+				<div class="clear"></div>
+		 </div>
+		 
+		 
+     </div>
+</body>
+</html>
+
+    
+    
+    
+</body>
+</html>

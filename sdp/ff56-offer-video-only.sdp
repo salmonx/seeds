@@ -1,0 +1,52 @@
+v=0
+o=mozilla...THIS_IS_SDPARTA-56.0a1 3570050808991445663 0 IN IP4 0.0.0.0
+s=-
+t=0 0
+a=sendrecv
+a=fingerprint:sha-256 CA:CD:7E:55:EC:53:71:4A:BF:F3:26:98:E2:42:3D:3B:81:B8:AB:92:21:96:80:5E:C2:F2:9F:15:82:0C:97:A1
+a=group:BUNDLE sdparta_0
+a=ice-options:trickle
+a=msid-semantic:WMS *
+m=video 8514 UDP/TLS/RTP/SAVPF 120 121 126 97
+c=IN IP4 66.114.175.89
+a=candidate:0 1 UDP 2122252543 10.20.35.98 49590 typ host
+a=candidate:1 1 TCP 2105524479 10.20.35.98 9 typ host tcptype active
+a=candidate:0 2 UDP 2122252542 10.20.35.98 53905 typ host
+a=candidate:1 2 TCP 2105524478 10.20.35.98 9 typ host tcptype active
+a=candidate:2 1 UDP 8331263 66.114.175.89 8514 typ relay raddr 66.114.175.89 rport 8514
+a=candidate:2 2 UDP 8331262 66.114.175.89 8514 typ relay raddr 66.114.175.89 rport 8514
+a=recvonly
+a=end-of-candidates
+a=extmap:1 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=fmtp:120 max-fs=12288;max-fr=60
+a=fmtp:121 max-fs=12288;max-fr=60
+a=fmtp:126 profile-level-id=42e01f;level-asymmetry-allowed=1;packetization-mode=1
+a=fmtp:97 profile-level-id=42e01f;level-asymmetry-allowed=1
+a=ice-pwd:ef52bd61dcad2e8d742b464d4eaa9403
+a=ice-ufrag:0-05e1241f
+a=mid:sdparta_0
+a=rtcp:53905 IN IP4 10.20.35.98
+a=rtcp-fb:120 nack
+a=rtcp-fb:120 nack pli
+a=rtcp-fb:120 ccm fir
+a=rtcp-fb:120 goog-remb
+a=rtcp-fb:121 nack
+a=rtcp-fb:121 nack pli
+a=rtcp-fb:121 ccm fir
+a=rtcp-fb:121 goog-remb
+a=rtcp-fb:126 nack
+a=rtcp-fb:126 nack pli
+a=rtcp-fb:126 ccm fir
+a=rtcp-fb:126 goog-remb
+a=rtcp-fb:97 nack
+a=rtcp-fb:97 nack pli
+a=rtcp-fb:97 ccm fir
+a=rtcp-fb:97 goog-remb
+a=rtcp-mux
+a=rtpmap:120 VP8/90000
+a=rtpmap:121 VP9/90000
+a=rtpmap:126 H264/90000
+a=rtpmap:97 H264/90000
+a=setup:actpass
+a=ssrc:2707847401 cname:{39282861-78fd-4d4d-9b32-88cce699c6d4}
