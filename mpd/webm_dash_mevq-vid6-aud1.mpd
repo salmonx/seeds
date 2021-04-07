@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="urn:mpeg:DASH:schema:MPD:2011"
+  xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011"
+  type="static"
+  mediaPresentationDuration="PT888.05S"
+  minBufferTime="PT1S"
+  profiles="urn:webm:dash:profile:webm-on-demand:2012">
+  <Period id="0" start="PT0S" duration="PT888.05S" >
+    <AdaptationSet id="0" mimeType="video/webm" codecs="vp8" lang="eng" width="720" height="306" subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+      <Representation id="1" bandwidth="534144">
+        <BaseURL>mevq_logo_720x306_0250k_int-150-150.webm</BaseURL>
+        <SegmentBase indexRange="29052226-29054708">
+          <Initialization range="0-229" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="2" bandwidth="1078766">
+        <BaseURL>mevq_logo_720x306_0500k_int-150-150.webm</BaseURL>
+        <SegmentBase indexRange="56003676-56006200">
+          <Initialization range="0-229" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="3" bandwidth="1745140">
+        <BaseURL>mevq_logo_720x306_0750k_int-150-150.webm</BaseURL>
+        <SegmentBase indexRange="83686040-83688577">
+          <Initialization range="0-229" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="4" bandwidth="2295403">
+        <BaseURL>mevq_logo_720x306_1000k_int-150-150.webm</BaseURL>
+        <SegmentBase indexRange="111588024-111590567">
+          <Initialization range="0-229" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="5" bandwidth="3797938">
+        <BaseURL>mevq_logo_720x306_1500k_int-150-150.webm</BaseURL>
+        <SegmentBase indexRange="166960740-166963291">
+          <Initialization range="0-229" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="6" bandwidth="6418657">
+        <BaseURL>mevq_logo_720x306_2000k_int-150-150.webm</BaseURL>
+        <SegmentBase indexRange="222165200-222167753">
+          <Initialization range="0-229" />
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" mimeType="audio/webm" codecs="vorbis" lang="eng" audioSamplingRate="41000" subsegmentStartsWithSAP="1">
+      <Representation id="7" bandwidth="115479">
+        <BaseURL>evq_vorbis_128kbps_cues-5sec_tracks-2.webm</BaseURL>
+        <SegmentBase indexRange="11944509-11947524">
+          <Initialization range="0-4501" />
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>

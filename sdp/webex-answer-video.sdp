@@ -1,0 +1,20 @@
+v=0
+o=- 6608001165902521337 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=sendrecv
+a=fingerprint:sha-256 CD:BA:8B:4F:BC:2F:81:4B:3F:A7:59:01:4B:34:F1:71:A4:09:0D:18:37:4D:50:CC:F9:10:E7:EE:0B:E9:8E:25
+m=video 9000 RTP/SAVPF 126
+c=IN IP4 66.114.175.89
+a=candidate:1 1 udp 2130706431 66.114.175.89 9000 typ host
+a=candidate:2 1 tcp 2120220671 66.114.175.89 80 typ host tcptype passive
+a=sendonly
+a=fmtp:126 profile-level-id=42e01f;level-asymmetry-allowed=1;packetization-mode=1
+a=ice-pwd:i8yxuKGbcL4ILoKthk6Y7t1h
+a=ice-ufrag:807534330#65917426731068794#0
+a=rtcp-fb:126 nack
+a=rtcp-fb:126 nack pli
+a=rtcp-mux
+a=rtpmap:126 H264/90000
+a=setup:passive
+a=ssrc:807534330 cname:/pTzPEmQ7zEousgf
